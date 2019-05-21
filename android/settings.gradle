@@ -1,0 +1,3 @@
+rootProject.name = 'trendy_baby_3657'
+
+include ':app'

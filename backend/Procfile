@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT trendy_baby_3657.wsgi:application
